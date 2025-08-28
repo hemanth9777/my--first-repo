@@ -1,0 +1,3 @@
+Name : RUTHALA VEERA MANIKANTA HEMANTH
+Course : 3rd Bsc Data Science
+one thing i learned about GitHub : we can store our code and our project details and files in our GitHub account 
